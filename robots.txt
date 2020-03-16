@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ufeshigee.codenova.org/sitemap.xml
